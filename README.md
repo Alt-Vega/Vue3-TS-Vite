@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # Vue3-TS-Vite
 this is vue3 start template
-=======
-<<<<<<< HEAD
 # vue3-ts-vite-starter-template
 
 A single page app [Vite](https://vitejs.dev) starter template, created to easily bootstrap Vue.js 3 apps.
@@ -66,8 +63,3 @@ pnpm run typecheck
 ### Customize configuration
 
 See [Configuration Reference](https://vitejs.dev/guide/).
-=======
-# Vue3-TS-Vite
-this is vue3 start template
->>>>>>> 251aa6332166d1282ce8b9493e954dac01e3daa9
->>>>>>> 28a7b1d (initial commit)
